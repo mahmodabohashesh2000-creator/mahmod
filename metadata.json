@@ -1,0 +1,17 @@
+{
+  "name": "Arkan ERP 2024",
+  "short_name": "Arkan",
+  "description": "Professional Accounting & Inventory Management System",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2622/2622814.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2b579a",
+  "theme_color": "#2b579a",
+  "requestFramePermissions": []
+}

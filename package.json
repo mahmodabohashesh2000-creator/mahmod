@@ -1,0 +1,16 @@
+
+{
+  "name": "ArkanERP",
+  "main": "index.html",
+  "version": "1.0.0",
+  "window": {
+    "title": "نظام أركان المحاسبي",
+    "icon": "icon.png",
+    "width": 1280,
+    "height": 800,
+    "toolbar": false,
+    "frame": true,
+    "position": "center",
+    "resizable": true
+  }
+}
